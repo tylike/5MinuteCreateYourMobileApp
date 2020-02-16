@@ -1,6 +1,5 @@
 # 5MinuteCreateYourMobileApp
-教你5分钟做一个手机APP
-<video id="video1" width="650" height="600" autoplay="autoplay" controls="controls">
-<source src="http://www.uims.top/aaa2.mp4" type="video/mp4" />
-您的浏览器不支持 HTML5 video 标签。 
-</video>
+教你用XAF5分钟做一个手机APP
+![Image text](https://images.cnblogs.com/cnblogs_com/foreachlife/1647303/o_200214063704mobile.png)
+视频教程
+http://www.uims.top/support/24/521.html
